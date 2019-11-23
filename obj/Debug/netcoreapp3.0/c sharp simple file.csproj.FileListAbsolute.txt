@@ -1,0 +1,11 @@
+C:\Users\midas\Desktop\C #\c sharp simple file\bin\Debug\netcoreapp3.0\c sharp simple file.exe
+C:\Users\midas\Desktop\C #\c sharp simple file\bin\Debug\netcoreapp3.0\c sharp simple file.deps.json
+C:\Users\midas\Desktop\C #\c sharp simple file\bin\Debug\netcoreapp3.0\c sharp simple file.runtimeconfig.json
+C:\Users\midas\Desktop\C #\c sharp simple file\bin\Debug\netcoreapp3.0\c sharp simple file.runtimeconfig.dev.json
+C:\Users\midas\Desktop\C #\c sharp simple file\bin\Debug\netcoreapp3.0\c sharp simple file.dll
+C:\Users\midas\Desktop\C #\c sharp simple file\bin\Debug\netcoreapp3.0\c sharp simple file.pdb
+C:\Users\midas\Desktop\C #\c sharp simple file\obj\Debug\netcoreapp3.0\c sharp simple file.csprojAssemblyReference.cache
+C:\Users\midas\Desktop\C #\c sharp simple file\obj\Debug\netcoreapp3.0\c sharp simple file.AssemblyInfoInputs.cache
+C:\Users\midas\Desktop\C #\c sharp simple file\obj\Debug\netcoreapp3.0\c sharp simple file.AssemblyInfo.cs
+C:\Users\midas\Desktop\C #\c sharp simple file\obj\Debug\netcoreapp3.0\c sharp simple file.dll
+C:\Users\midas\Desktop\C #\c sharp simple file\obj\Debug\netcoreapp3.0\c sharp simple file.pdb
